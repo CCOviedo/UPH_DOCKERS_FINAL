@@ -1,0 +1,1 @@
+echo "Fecha actual: $(date)";
